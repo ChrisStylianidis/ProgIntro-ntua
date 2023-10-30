@@ -21,8 +21,7 @@ for(i=0;i<n1;i++){
 printf("%d\n",c);
 return 0;}
 /*
-axx, eprepe na mpo simera, toulaxiston tha eperna kati tis parapano...
-an to diavazei kaneis afto, Hello world.
+
 10 7 28 30
 3 4 7 8 12 14 15 15 17 17
 1 4 4 7 9 13 17
