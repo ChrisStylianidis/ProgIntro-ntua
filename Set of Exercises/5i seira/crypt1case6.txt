@@ -1,0 +1,12 @@
+zlecharv3jmfxpkbynqsidowgt
+
+
+
+    1:   zlecharv3jmfxpkbynqsidowgt
+    2:   This text should not be encrypted
+    3:   because the first line
+    4:   contains the digit '3'   
+
+
+
+    1:OK error↲!

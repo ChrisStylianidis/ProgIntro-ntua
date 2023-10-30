@@ -1,0 +1,9 @@
+
+
+    1:   zlecharvdjmfxpkbynqsidowgt
+    2:   This text should not be encrypted
+    3:   because the first line
+    4:   contains the letter 'd' twice!
+
+
+    1:OK error↲
